@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Add your bot token
-Open `config.py` and replace `YOUR_BOT_TOKEN_HERE` with your actual bot token from the [Discord Developer Portal](https://discord.com/developers/applications).
+Open `config.py` and replace `bot token here` with your actual bot token from the [Discord Developer Portal](https://discord.com/developers/applications).
 
 ```python
 TOKEN = "your_real_token_here"
