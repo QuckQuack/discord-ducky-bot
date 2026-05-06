@@ -1,10 +1,10 @@
-# 🦆 Discord Economy Bot
+# Discord Economy Bot
 
 A full-featured Discord economy bot with jobs, gambling games, investing, fishing/hunting/mining, and more.
 
 ---
 
-## 🚀 Setup
+##  Setup
 
 ### 1. Install dependencies
 ```bash
@@ -25,7 +25,7 @@ python bot.py
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 ```
 discord_economy_bot/
@@ -41,7 +41,7 @@ The bot creates `economy.db` automatically on first run.
 
 ---
 
-## ⚙️ Configuration (`config.py`)
+##  Configuration (`config.py`)
 
 | Setting | Default | Description |
 |---|---|---|
@@ -56,7 +56,7 @@ The bot creates `economy.db` automatically on first run.
 
 ---
 
-## 💰 Commands Reference
+##  Commands Reference
 
 ### Page 1 — Basics
 | Command | Description |
@@ -100,7 +100,7 @@ The bot creates `economy.db` automatically on first run.
 
 ---
 
-## 🛒 Shop Items
+##  Shop Items
 
 | Item | Price | Effect |
 |---|---|---|
@@ -114,7 +114,7 @@ The bot creates `economy.db` automatically on first run.
 
 ---
 
-## 🏢 Investment Companies
+##  Investment Companies
 
 | Company | Risk | Return Range | Duration |
 |---|---|---|---|
@@ -126,7 +126,7 @@ The bot creates `economy.db` automatically on first run.
 
 ---
 
-## 🎮 Games
+##  Games
 
 ### Door Game
 Pick one of 3 doors. One hides a prize worth x1.5–x3 your bet. No prize = full loss.
@@ -139,7 +139,7 @@ Bet coins, choose how many mines (1–8). Reveal safe tiles to increase your mul
 
 ---
 
-## 🔒 Required Bot Permissions
+##  Required Bot Permissions
 
 - Read Messages / Send Messages
 - Add Reactions
