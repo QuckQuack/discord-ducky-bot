@@ -1,6 +1,10 @@
+<span style="color:red; font-size:2em;"><b>This repo is like 6 months outdated and is missing the majority of features that ducky currently has</b></span>
+
+<span style="font-size:0.85em;">Maybe one day I will sync this with my real project files and setup automatic git pulls so I can edit the bot directly from GitHub, but no promises</span>
+
 # Discord Economy Bot
 
-A full-featured Discord economy bot with jobs, gambling games, investing, fishing/hunting/mining, and more.
+A full featured Discord economy bot with jobs, gambling games, investing, fishing/hunting/mining, and more.
 
 ---
 
@@ -30,7 +34,7 @@ python bot.py
 ```
 discord_economy_bot/
 ├── bot.py            # Main entry point
-├── config.py         # All settings & cooldowns (edit here)
+├── config.py         # All settings & cooldowns 
 ├── database.py       # SQLite async helpers
 ├── requirements.txt
 └── cogs/
